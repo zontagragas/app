@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "622598352693",
+    "project_id": "docapp-aae50",
+    "storage_bucket": "docapp-aae50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622598352693:android:8af25913226dcabe94267c",
+        "android_client_info": {
+          "package_name": "com.example.log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622598352693-kr0g9h4l48jiiosepdvjl7tu5mjg62kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi41ZkolUK7g4kgsf4f8OhP3etTEikn6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622598352693-kr0g9h4l48jiiosepdvjl7tu5mjg62kr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622598352693-4fsk17vb5ghk6jufi10hc7ggr1bdpq3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.log"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
